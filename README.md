@@ -4,7 +4,7 @@
 
 Architecting the future of **HealthTech** and **FinTech** by bridging biological complexity with algorithmic precision. I specialize in transforming high-stakes industrial challenges into scalable **Computer Vision, GenAI, and NLP** solutions.
 
-### 🚀 Featured Research & Initiatives
+### Featured Research & Initiatives
 * **ML Playground:** Developing a real-time framework for visual model evaluation and AI-powered analysis (Slated for **Springer** publication).
 * **E-WASTE-Urban-Miner:** Engineered an end-to-end CV system integrating computer vision with financial valuation logic for urban sustainability and e-waste management.
 * **Logistics Optimization:** Developing ML-driven solutions for supply chain efficiency and time-series forecasting.
